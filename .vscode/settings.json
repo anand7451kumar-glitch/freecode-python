@@ -1,0 +1,11 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python-envs.pythonProjects": [
+        {
+            "path": "py4e.py",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ],
+    "python.REPL.enableREPLSmartSend": false
+}
